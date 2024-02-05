@@ -1,7 +1,7 @@
 {
-  "name": "getting-started",
+  "name": "discord-event-repeater",
   "version": "1.0.0",
-  "description": "Discord example app",
+  "description": "Create repeated events",
   "main": "app.js",
   "type": "module",
   "engines": {
@@ -12,7 +12,7 @@
     "register": "node commands.js",
     "dev": "nodemon app.js"
   },
-  "author": "Shay DeWael",
+  "author": "Arnonuem",
   "license": "MIT",
   "dependencies": {
     "discord-interactions": "^3.2.0",
